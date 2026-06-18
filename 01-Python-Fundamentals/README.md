@@ -1,7 +1,5 @@
 # 01. Python Fundamentals — Guess the Number Game
 
-> **Module 01** · Master in Data Science
-
 ## 📋 Overview
 
 A terminal-based number-guessing game built in Python demonstrating core programming concepts: control structures, modular design, and data persistence.
@@ -52,14 +50,6 @@ python menu_principal.py
 3. Choose **range** (Easy=1-500, Medium=1-1000, Hard=1-5000)
 4. **Guess the number** — hints provided after each attempt
 5. Check **Statistics menu** for performance analysis
-
----
-
-## 🛠️ Technologies
-
-```
-Python 3.x · openpyxl · pandas · Matplotlib · Plotly
-```
 
 ---
 
