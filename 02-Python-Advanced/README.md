@@ -1,7 +1,5 @@
 # 02. Python Advanced — IT Infrastructure Hostname Generator
 
-> **Module 02 of 16** · Master in Data Science
-
 ## 📋 Overview
 
 A realistic IT infrastructure dataset generator that procedurally creates **1,500 synthetic server hostnames** using weighted probability distributions. Each hostname encodes metadata about the server's OS, deployment environment, and geographic location — following patterns observed in real-world data centers.
@@ -54,25 +52,10 @@ Example: LPIRL055 → Linux · Production · Ireland · Node 55
 
 ## 📈 Sample Visuals
 
-> Insert your visualization charts here. Examples:
+<img width="661" height="604" alt="2026-06-18_19-58-44" src="https://github.com/user-attachments/assets/8b960bea-9ecd-4848-bb22-4dda1de52e21" />
 
-**Operating System Distribution**
-```
-[Your OS distribution chart here]
-Shows the percentage breakdown of each operating system across the 1,500 servers.
-```
+<img width="1003" height="823" alt="image" src="https://github.com/user-attachments/assets/5e4e5c0f-e6bc-44be-aed9-d24ec356699d" />
 
-**Environment Breakdown**
-```
-[Your environment pie chart here]
-Displays the distribution of servers across Production, Staging, Testing, Integration, and Development.
-```
-
-**Country vs Environment Analysis**
-```
-[Your grouped bar chart here]
-Visualizes how deployment environments are distributed across different geographic regions.
-```
 
 ---
 
