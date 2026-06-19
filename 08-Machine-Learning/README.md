@@ -1,7 +1,5 @@
 # 08. Machine Learning — Pump it Up: Water Pump Failure Prediction
 
-> **Module 08 of 16** · Master in Data Science
-
 ## 📋 Overview
 
 End-to-end machine learning project predicting water pump operational status in Tanzania. Built for the **DrivenData "Pump it Up" competition** to identify faulty pumps and restore clean water access.
@@ -42,14 +40,8 @@ End-to-end machine learning project predicting water pump operational status in 
 ## 📈 Sample Visuals
 
 **Competition Ranking Screenshot**
-```
-[Your DrivenData screenshot here - showing 81.58% accuracy and #2900 ranking]
-```
 
-**Feature Importance Chart**
-```
-[Your top 10 features bar chart]
-```
+<img width="551" height="143" alt="image" src="https://github.com/user-attachments/assets/66a34127-ce85-4f40-85a1-f93090dd6770" />
 
 ---
 
@@ -68,6 +60,7 @@ End-to-end machine learning project predicting water pump operational status in 
 ```
 08-Machine-Learning/
 ├── Nicolas_Esteban_Spector_bombas.ipynb
+├── Puntuaciones Competencia.png
 └── README.md
 ```
 
