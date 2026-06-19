@@ -73,5 +73,5 @@ Open `Nicolas_Esteban_Spector_bombas.ipynb` to see the full analysis with all ce
 ---
 
 <p align="center">
-  <i>Part of <a href="../README.md">Master in Data Science Portfolio</a> · <a href="https://github.com/NicolasSpector">@NicolasSpector</a></i>
+  <a href="https://github.com/NicolasSpector">@NicolasSpector</a></i>
 </p>
