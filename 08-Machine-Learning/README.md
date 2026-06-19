@@ -23,7 +23,7 @@ This is a **multi-class classification problem** with typical data science chall
 ## 📊 Project Workflow
  
 ### 1. Exploratory Data Analysis (EDA)
-- Visualized missing data patterns with `missingno`
+- Visualized missing data patterns
 - Analyzed class imbalance and feature distributions
 - Identified geographic clustering and feature correlations
 - Used `ydata-profiling` for automated data profiling
