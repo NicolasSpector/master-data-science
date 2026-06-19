@@ -74,5 +74,5 @@ View your game history with 5 analysis options:
 ---
 
 <p align="center">
-  <i>Part of <a href="../README.md">Master in Data Science Portfolio</a> · <a href="https://github.com/NicolasSpector">@NicolasSpector</a></i>
+  <a href="https://github.com/NicolasSpector">@NicolasSpector</a></i>
 </p>
