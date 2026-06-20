@@ -23,16 +23,12 @@ Comprehensive data visualization project analyzing 120 years of Olympic history 
 ### Part 1: Athlete Demographics Distribution
 
 **Height, Weight & Age Patterns**
-```
-[Your histogram/density plot showing athlete physical characteristics]
-Shows variation in height/weight across disciplines and age concentration (18-30 years)
-```
+
+<img width="1153" height="820" alt="image" src="https://github.com/user-attachments/assets/6d5384ad-828f-4095-9f6b-d0fd459c6a71" />
 
 **Gender Composition Over Time**
-```
-[Your line plot showing male vs female athlete participation 1896-2016]
-Highlights the surge in women's participation from the 1950s onwards
-```
+
+<img width="831" height="413" alt="image" src="https://github.com/user-attachments/assets/df42af77-e9ed-42ba-b54e-2831f622b5b9" />
 
 **Key Insight:** Clear gender gap until 1956; exponential growth in female participation post-1960s, with near-parity by 2016.
 
