@@ -122,5 +122,5 @@ The notebook contains:
 ---
 
 <p align="center">
-  <i>Part of <a href="../README.md">Master in Data Science Portfolio</a></i>
+  <a href="https://github.com/NicolasSpector">@NicolasSpector</a></i>
 </p>
