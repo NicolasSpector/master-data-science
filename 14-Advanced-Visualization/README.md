@@ -28,25 +28,23 @@ Comprehensive data visualization project analyzing 120 years of Olympic history 
 
 **Gender Composition Over Time**
 
-<img width="831" height="413" alt="image" src="https://github.com/user-attachments/assets/df42af77-e9ed-42ba-b54e-2831f622b5b9" />
+<img width="1196" height="593" alt="image" src="https://github.com/user-attachments/assets/6e39e1ca-de95-4320-9f76-b7e41ee5e77d" />
 
-**Key Insight:** Clear gender gap until 1956; exponential growth in female participation post-1960s, with near-parity by 2016.
+**Key Insight:** Clear gender gap until 1980; exponential growth in female participation post-1980s, with near-parity by 2016.
 
 ---
 
 ### Part 2: Medal Analysis by Gender & Nationality
 
-**Top Countries by Medal Count**
-```
-[Your horizontal bar chart: USA, Russia, Germany by medal type and gender]
-Shows USA dominance across all categories, but gender gap persists
-```
+**Top Countries by Medal & Gender Count**
 
-**Gender Breakdown in Medals**
-```
-[Your stacked bar or grouped visualization comparing male vs female medalists]
-Displays the historical male advantage in medal counts across top nations
-```
+<img width="535" height="556" alt="image" src="https://github.com/user-attachments/assets/d9de4a7d-a458-4f4c-b0ad-f9f38985eb4c" />
+
+<img width="536" height="555" alt="image" src="https://github.com/user-attachments/assets/bf730f4b-b0eb-413d-a280-318a6404cbdd" />
+
+<img width="533" height="554" alt="image" src="https://github.com/user-attachments/assets/b67b4a6c-ba44-4057-a8cd-90d84c0205d4" />
+
+
 
 **Key Insight:** USA, Russia, and Germany claim 40%+ of all medals; male athletes outnumber female medalists 3:1 despite recent equalization efforts.
 
@@ -54,17 +52,9 @@ Displays the historical male advantage in medal counts across top nations
 
 ### Part 3: Women's Participation Growth
 
-**Female Athlete Participation Trend**
-```
-[Your line plot showing growth trajectory of female athletes per Olympic Games]
-Marks turning points (1956, 1980, 2000, 2016)
-```
-
 **Women vs Men by Olympic Edition**
-```
-[Your comparison chart showing female representation percentage evolution]
-Shows acceleration in female participation, especially post-1990
-```
+
+<img width="831" height="413" alt="image" src="https://github.com/user-attachments/assets/df42af77-e9ed-42ba-b54e-2831f622b5b9" />
 
 **Key Insight:** Women's participation increased from <1% (1896) to ~45% (2016); some national delegations now send more women than men.
 
@@ -80,7 +70,7 @@ Shows acceleration in female participation, especially post-1990
 - `matplotlib` — foundational charts (histograms, line plots, bar charts)
 - `seaborn` — enhanced statistical visualization (distributions, heatmaps)
 - `plotly` — interactive visualizations for exploration
-- `folium` (optional) — geographic mapping of Olympic host cities
+- `folium` — geographic mapping of Olympic host cities
 
 **Visualization Techniques**
 - Time series analysis (line plots with annotations)
@@ -96,14 +86,8 @@ Shows acceleration in female participation, especially post-1990
 ```
 14-Advanced-Visualization/
 └── Spector_Nicolas_Esteban_-_Tarea_Final_Visualizacio_n_Avanzada.ipynb
+└── README.md
 ```
-
-The notebook contains:
-- Full exploratory data analysis with 15+ visualizations
-- Step-by-step visualization design reasoning
-- Interactive plots for demographic and medal analysis
-- Comparative analysis across Olympic editions
-- All cell outputs preserved for transparency
 
 ---
 
