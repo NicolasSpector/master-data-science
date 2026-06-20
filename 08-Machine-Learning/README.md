@@ -74,7 +74,7 @@ This is a **multi-class classification problem** with typical data science chall
 ```
 08-Machine-Learning/
 ├── Nicolas_Esteban_Spector_bombas.ipynb
-├── Puntuaciones Competencia.png
+├── submission_scores.png
 └── README.md
 ```
 
